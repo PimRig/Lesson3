@@ -1,0 +1,23 @@
+@import "null.css";
+
+.main-articles {
+	color: red;
+}
+.conclusion {
+	color: yellow;
+}
+
+.sent-start {
+	color: green;
+}
+
+p {
+	color: lightseagreen;
+}
+li {
+	color: maroon;
+}
+#sociality,
+#keeping {
+	color: purple;
+}
